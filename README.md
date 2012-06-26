@@ -1,4 +1,1 @@
-NSync
-=====
-
-NSync
+# [NSync is now Shimmer](https://github.com/github/shimmer)
